@@ -177,7 +177,7 @@
     letter-spacing: 2px;
     font-size: 200;
   }
-  .img-fluid{
+  .img-f{
     border-radius: 25%;
   }
   .skills-section{
@@ -236,7 +236,9 @@
     background-attachment: scroll;
     background-size: cover;
   }
-  
+  section{
+    margin-bottom: 1rem;
+  }
   /* .signup-section .form-inline input {
     box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
     padding: 1.25rem 2rem;
